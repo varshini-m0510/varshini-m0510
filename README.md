@@ -57,5 +57,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Varshini%20M-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/varshini-m-b49a762a8)  
 [![Gmail](https://img.shields.io/badge/Gmail-varshinim050510%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:varshinim050510@gmail.com)
 
-## 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varshini-m0510)
