@@ -58,4 +58,4 @@
 [![Gmail](https://img.shields.io/badge/Gmail-varshinim050510%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:varshinim050510@gmail.com)
 
 ## 📈 GitHub Stats
-![Top Langs]([![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varshini-m0510)])
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varshini-m0510)
